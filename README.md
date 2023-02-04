@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @fcandi
-- 👀 I’m interested in React, React Native and Ruby on Rails
-- 🌱 I’m currently learning more about mobile App development
+Currently creating a Mastodon fork for vanlifers/campers
 
 <!---
 fcandi/fcandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
